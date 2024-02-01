@@ -1,0 +1,10 @@
+C:\Users\10\source\repos\String__\String__\bin\Debug\String__.exe.config
+C:\Users\10\source\repos\String__\String__\bin\Debug\String__.exe
+C:\Users\10\source\repos\String__\String__\bin\Debug\String__.pdb
+C:\Users\10\source\repos\String__\String__\obj\Debug\String__.csproj.AssemblyReference.cache
+C:\Users\10\source\repos\String__\String__\obj\Debug\String__.csproj.SuggestedBindingRedirects.cache
+C:\Users\10\source\repos\String__\String__\obj\Debug\String__.csproj.CoreCompileInputs.cache
+C:\Users\10\source\repos\String__\String__\obj\Debug\String__.exe
+C:\Users\10\source\repos\String__\String__\obj\Debug\String__.pdb
+C:\Users\10\source\repos\String__\String__\obj\Debug\String__.Form1.resources
+C:\Users\10\source\repos\String__\String__\obj\Debug\String__.csproj.GenerateResource.cache

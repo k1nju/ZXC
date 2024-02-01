@@ -1,0 +1,14 @@
+C:\Users\10\source\repos\String__\CalculatorWinForms\bin\Debug\CalculatorWinForms.exe.config
+C:\Users\10\source\repos\String__\CalculatorWinForms\bin\Debug\CalculatorWinForms.exe
+C:\Users\10\source\repos\String__\CalculatorWinForms\bin\Debug\CalculatorWinForms.pdb
+C:\Users\10\source\repos\String__\CalculatorWinForms\bin\Debug\CalculatorClassLibrary.dll
+C:\Users\10\source\repos\String__\CalculatorWinForms\bin\Debug\CalculatorClassLibrary.pdb
+C:\Users\10\source\repos\String__\CalculatorWinForms\obj\Debug\CalculatorWinForms.csproj.AssemblyReference.cache
+C:\Users\10\source\repos\String__\CalculatorWinForms\obj\Debug\CalculatorWinForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\10\source\repos\String__\CalculatorWinForms\obj\Debug\CalculatorWinForms.Form1.resources
+C:\Users\10\source\repos\String__\CalculatorWinForms\obj\Debug\CalculatorWinForms.Properties.Resources.resources
+C:\Users\10\source\repos\String__\CalculatorWinForms\obj\Debug\CalculatorWinForms.csproj.GenerateResource.cache
+C:\Users\10\source\repos\String__\CalculatorWinForms\obj\Debug\CalculatorWinForms.csproj.CoreCompileInputs.cache
+C:\Users\10\source\repos\String__\CalculatorWinForms\obj\Debug\CalculatorWinForms.csproj.CopyComplete
+C:\Users\10\source\repos\String__\CalculatorWinForms\obj\Debug\CalculatorWinForms.exe
+C:\Users\10\source\repos\String__\CalculatorWinForms\obj\Debug\CalculatorWinForms.pdb
